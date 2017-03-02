@@ -1,0 +1,17 @@
+{
+  "name": "vente-privee",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-cssbeautify": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-csso": "^2.0.0",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-load-plugins": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "^3.1.0",
+    "gulp-twig": "^0.7.0"
+  }
+}
